@@ -3,7 +3,7 @@ Processing code and STL files for the BlueTooth controlled sumobot based on the 
 
 
 # Controlling the Sumobot
-Download and side-load the Android app (APK file tested in Android 8.0 on a Samsung S7) - August 2018. 
+Download and side-load the [Android app (Arduino Bluetooth Controller](https://github.com/lead-harmony-lab/Bluetooth-Sumobot/blob/master/Arduino%20bluetooth%20controller_v1.3_apkpure.com.apk) (APK file tested in Android 8.0 on a Samsung S7) - August 2018. 
 After installing the app and confirming that your BlueTooth is turned on:
 1. Pair with the HC06 module (may be named HC06)
 2. Enter password to pair with module (default may be '1234')
