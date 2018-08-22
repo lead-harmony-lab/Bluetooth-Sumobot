@@ -28,14 +28,14 @@ After installing the app and confirming that your BlueTooth is turned on:
                 [circle] slower
 REMEMBER: You must select done / checkmark on the keyboard to lock the changes into the app. Otherwise the app will continue to show 'not set' after you have entered in the appropriate text. 
 
-9. Return to the previous screen using the Android back button
+9. Return to the previous screen using the Android back button.
 10. Control the sumobot by pressing on the control icons.
 
 # Building the control board
 The schematic for controlling this sumbot has been created in KiCad. The gerber files can be sent to a board house (I use [OSHPark](https://oshpark.com)) for fabrication. The schematic can also be used as a basis for putting together a breadboarded version of this project. I've included a hand-drawn image of the pinout I used for the L293D IC when connecting to the Arduino Uno.
 
 # Model File
-All of the 3D design work was done in Blender using milimeters. I used Blender 2.79b on Ubuntu 18.04 Linux.
+All of the 3D design work was done in Blender using millimeters. I used Blender 2.79b on Ubuntu 18.04 Linux.
 
 # 3D Printing
 I printed these parts out on an FDM RepRap based printer - The Robo3D R1+. Total print time is approximately 24 hours. I recommend that you print the sumobot body on its roof with the motor cavity facing up towards the nozzle. I have found that this model will print successfully without the need to also add support material. I use Matter Control software to control the 3D Printer.
