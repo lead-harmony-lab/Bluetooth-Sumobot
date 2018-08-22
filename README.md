@@ -28,6 +28,7 @@ Step 10: Configure the field for each icon using these strings. The icon shape i
                 [X] stop
                 [circle] slower
 REMEMBER: You must select done / checkmark on the keyboard to lock the changes into the app. Otherwise the app will continue to show 'not set' after you have entered in the appropriate text. See [this image](https://github.com/lead-harmony-lab/Bluetooth-Sumobot/blob/master/Arduino%20bluetooth%20controller%20setup%20image.jpg)
+
 Step 11: Return to the previous screen using the Android back button
 Step 12: Control the sumobot by pressing on the control icons.
 
