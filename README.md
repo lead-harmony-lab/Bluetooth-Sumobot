@@ -66,6 +66,8 @@ I printed these parts out on an FDM RepRap based printer - The Robo3D R1+. Total
   * Dupont 2-Pin 2.54mm Housing: https://www.ebay.ca/itm/331824268796
   * Dupont Female Connector Terminal: https://www.ebay.ca/itm/141975933772
   * HT-225D Dupont Crimping Tool: https://www.ebay.ca/itm/263766640490
+  * M2 x 8mm self-tapping screws: https://www.ebay.ca/itm/182309825046?var=484855861567
+  * M3 x 6mm self-tapping screws: https://www.ebay.ca/itm/182309825046?var=484855861608
   
   
   
