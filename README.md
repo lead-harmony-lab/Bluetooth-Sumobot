@@ -28,6 +28,7 @@ After installing the app and confirming that your BlueTooth is turned on:
                 [X] stop
                 [circle] slower
 REMEMBER: You must select done / checkmark on the keyboard to lock the changes into the app. Otherwise the app will continue to show 'not set' after you have entered in the appropriate text. See [this image](https://github.com/lead-harmony-lab/Bluetooth-Sumobot/blob/master/Arduino%20bluetooth%20controller%20setup%20image.jpg)
+
 10. Return to the previous screen using the Android back button
 11. Control the sumobot by pressing on the control icons.
 
