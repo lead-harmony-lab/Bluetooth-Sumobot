@@ -47,7 +47,8 @@ I printed these parts out on an FDM RepRap based printer - The Robo3D R1+. Total
   * Single battery (pos & neg) terminals: https://www.ebay.ca/itm/311070764299
   * Battery conversion spring: https://www.ebay.ca/itm/172440758009
   * Latching DPDT switch: https://www.ebay.ca/itm/322498646783
-  * Single male header pins: https://www.ebay.ca/itm/181918556293
+  * Single-row male header pins: https://www.ebay.ca/itm/181918556293
+  * Single-row female header socket: https://www.ebay.ca/itm/192600775159
   * 1K axial resistor
   * 2K axial resistor
   * 150R axial resistor
