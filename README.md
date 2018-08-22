@@ -52,6 +52,7 @@ I printed these parts out on an FDM RepRap based printer - The Robo3D R1+. Total
   * 2K resistor
   * 150R resistor
   * L293D IC (Quadruple H-Bridge driver with internal fly-back diodes): https://www.ebay.ca/itm/311173671055
+  * 16 pin DIP socket: https://www.ebay.ca/itm/311563518356
   * Arduino UNO: https://www.ebay.ca/itm/263452480977
   * Arduino UNO prototype shield: https://www.ebay.ca/itm/172536470483
   * 4 AA Batteries
