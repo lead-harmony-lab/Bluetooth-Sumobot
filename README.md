@@ -33,3 +33,35 @@ Step 12: Control the sumobot by pressing on the control icons.
 
 # Building the control board
 The schematic for controlling this sumbot has been created in KiCad. The gerber files can be sent to a board house (I use OSHPark) for fabrication. The schematic can also be used as a basis for putting together a breadboarded version of this project. I've included a hand-drawn image of the pinout I used for the L293D IC when connecting to the Arduino Uno.
+
+# 3D Printing
+I printed these parts out on an FDM RepRap based printer - The Robo3D R1+. Total print time is approximately 24 hours. I recommend that you print the sumobot body on its roof with the motor cavity facing up towards the nozzle. I have found that this model will print successfully without the need to also add support material. I use Matter Control software to control the 3D Printer.
+
+# Parts
+* Sumobot
+  * Tamiya Twin-Motor Gearbox 70097
+  * 4-strand data cable
+  * Silicon (OooGoo) wheel grips (you will have to design your own hubs)
+* BlueTooth Module
+  * HC06 Bluetooth Module https://www.ebay.ca/itm/201415076859
+  * Single battery (pos & neg) terminals: https://www.ebay.ca/itm/311070764299
+  * Battery conversion spring: https://www.ebay.ca/itm/172440758009
+  * Latching DPDT switch: https://www.ebay.ca/itm/322498646783
+  * Single male header pins: https://www.ebay.ca/itm/181918556293
+  * 1K resistor
+  * 2K resistor
+  * 150R resistor
+  * L293D IC (Quadruple H-Bridge driver with internal fly-back diodes): https://www.ebay.ca/itm/311173671055
+  * Arduino UNO: https://www.ebay.ca/itm/263452480977
+  * Arduino UNO prototype shield: https://www.ebay.ca/itm/172536470483
+  * 4 AA Batteries
+  * 9V Battery
+  * 9 Volt Battery Clip: https://www.ebay.ca/itm/263766384151
+  * Hook-up wire: https://www.ebay.ca/itm/372234345012
+  * Dupont 4-Pin 2.54mm Housing: https://www.ebay.ca/itm/152837501538
+  * Dupont 2-Pin 2.54mm Housing: https://www.ebay.ca/itm/331824268796
+  * Dupont Female Connector Terminal: https://www.ebay.ca/itm/141975933772
+  * HT-225D Dupont Crimping Tool: https://www.ebay.ca/itm/263766640490
+  
+  
+  
