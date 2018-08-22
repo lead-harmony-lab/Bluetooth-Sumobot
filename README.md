@@ -30,3 +30,6 @@ Step 10: Configure the field for each icon using these strings. The icon shape i
 REMEMBER: You must select done / checkmark on the keyboard to lock the changes into the app. Otherwise the app will continue to show 'not set' after you have entered in the appropriate text.
 Step 11: Return to the previous screen using the Android back button
 Step 12: Control the sumobot by pressing on the control icons.
+
+# Building the control board
+The schematic for controlling this sumbot has been created in KiCad. The gerber files can be sent to a board house (I use OSHPark) for fabrication. The schematic can also be used as a basis for putting together a breadboarded version of this project. I've included a hand-drawn image of the pinout I used for the L293D IC when connecting to the Arduino Uno.
