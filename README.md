@@ -3,7 +3,7 @@ Processing code and STL files for the BlueTooth controlled sumobot based on the 
 
 
 # Controlling the Sumobot
-Download and side-load the [Android app (Arduino Bluetooth Controller](https://github.com/lead-harmony-lab/Bluetooth-Sumobot/blob/master/Arduino%20bluetooth%20controller_v1.3_apkpure.com.apk) (APK file tested in Android 8.0 on a Samsung S7) - August 2018. 
+Download and side-load the [Android app (Arduino Bluetooth Controller)](https://github.com/lead-harmony-lab/Bluetooth-Sumobot/blob/master/Arduino%20bluetooth%20controller_v1.3_apkpure.com.apk) (APK file tested in Android 8.0 on a Samsung S7) - August 2018. 
 After installing the app and confirming that your BlueTooth is turned on:
 1. Pair with the HC06 module (may be named HC06)
 2. Enter password to pair with module (default may be '1234')
@@ -30,6 +30,9 @@ REMEMBER: You must select done / checkmark on the keyboard to lock the changes i
 
 9. Return to the previous screen using the Android back button.
 10. Control the sumobot by pressing on the control icons.
+
+# Customizing the Android App
+The code for [a basic Android Studio project](https://github.com/lead-harmony-lab/Bluetooth-Sumobot/tree/master/Android%20Sumobot%20Controller/app/src/main) can be modified to add any additional behaviour to the controller that you require. Simply create an new 'Empty Activity' when creating a new project. When the project is loaded, copy over the basic project files into your new project's directory. **REMEMBER** to look up the MAC address of your Bluetooth module and replace the DEVICE ADDRESS in MainActivity.java in order to get this app to work with your Bluetooth module.
 
 # Building the control board
 The schematic for controlling this sumbot has been created in KiCad. The gerber files can be sent to a board house (I use [OSHPark](https://oshpark.com)) for fabrication. The schematic can also be used as a basis for putting together a breadboarded version of this project. I've included a hand-drawn image of the pinout I used for the L293D IC when connecting to the Arduino Uno.
