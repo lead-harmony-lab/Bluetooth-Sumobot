@@ -7,13 +7,12 @@ Download and side-load the Android app (APK file tested in Android 8.0 on a Sams
 After installing the app and confirming that your BlueTooth is turned on:
 1. Pair with the HC06 module (may be named HC06)
 2. Enter password to pair with module (default may be '1234')
-3. Confirm that module has been paired. The indicator lights on this module will stop blinking once pairing is complete.
-4. Launch app.
-5. Select module (HC06) from the list of available devices. If not available, confirm step 1.
-6. The app will ask which mode to select. Choose 'Controller mode' from top of the list.
-7. Confirm solid light on the HC06 module indicating pairing was successful
-8. Choose gear/settings icon from top right corner.
-9. Configure the field for each icon using these strings. The icon shape is described in the [ ] braces. See attached jpg for visual guide.
+3. Launch app.
+4. Select module (HC06) from the list of available devices. If not available, confirm step 1.
+5. The app will ask which mode to select. Choose 'Controller mode' from top of the list.
+6. Confirm solid light on the HC06 module indicating pairing was successful
+7. Choose gear/settings icon from top right corner.
+8. Configure the field for each icon using these strings. The icon shape is described in the [ ] braces. See attached jpg for visual guide.
                 
                 [left arrow] left
                 [up arrow] forward
@@ -29,8 +28,8 @@ After installing the app and confirming that your BlueTooth is turned on:
                 [circle] slower
 REMEMBER: You must select done / checkmark on the keyboard to lock the changes into the app. Otherwise the app will continue to show 'not set' after you have entered in the appropriate text. See [this image](https://github.com/lead-harmony-lab/Bluetooth-Sumobot/blob/master/Arduino%20bluetooth%20controller%20setup%20image.jpg)
 
-10. Return to the previous screen using the Android back button
-11. Control the sumobot by pressing on the control icons.
+9. Return to the previous screen using the Android back button
+10. Control the sumobot by pressing on the control icons.
 
 # Building the control board
 The schematic for controlling this sumbot has been created in KiCad. The gerber files can be sent to a board house (I use [OSHPark](https://oshpark.com)) for fabrication. The schematic can also be used as a basis for putting together a breadboarded version of this project. I've included a hand-drawn image of the pinout I used for the L293D IC when connecting to the Arduino Uno.
