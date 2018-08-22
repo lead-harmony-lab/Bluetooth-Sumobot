@@ -14,11 +14,12 @@ Step 7: The app will ask which mode to select. Choose 'Controller mode' from top
 Step 8: Confirm solid light on the HC06 module indicating pairing was successful
 Step 9: Choose gear/settings icon from top right corner.
 Step 10: Configure the field for each icon using these strings. The icon shape is described in the [ ] braces. See attached jpg for visual guide.
+                
                 [left arrow] left
                 [up arrow] forward
                 [right arrow] right
                 [down arrow] reverse
-
+                
                 [select]
                 [start]
 
