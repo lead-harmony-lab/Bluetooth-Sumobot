@@ -61,6 +61,7 @@ I printed these parts out on an FDM RepRap based printer - The Robo3D R1+. Total
   * 9V Battery
   * 9 Volt Battery Clip: https://www.ebay.ca/itm/263766384151
   * Hook-up wire: https://www.ebay.ca/itm/372234345012
+  * Heat Shrink Tubing: https://www.ebay.ca/itm/381381208587
   * Dupont 4-Pin 2.54mm Housing: https://www.ebay.ca/itm/152837501538
   * Dupont 2-Pin 2.54mm Housing: https://www.ebay.ca/itm/331824268796
   * Dupont Female Connector Terminal: https://www.ebay.ca/itm/141975933772
