@@ -48,9 +48,11 @@ I printed these parts out on an FDM RepRap based printer - The Robo3D R1+. Total
   * Battery conversion spring: https://www.ebay.ca/itm/172440758009
   * Latching DPDT switch: https://www.ebay.ca/itm/322498646783
   * Single male header pins: https://www.ebay.ca/itm/181918556293
-  * 1K resistor
-  * 2K resistor
-  * 150R resistor
+  * 1K axial resistor
+  * 2K axial resistor
+  * 150R axial resistor
+  * 100uf electrolytic capacitor: https://www.ebay.ca/itm/291535579746
+  * 0.1uf ceramic capacitor: https://www.ebay.ca/itm/323377133385
   * L293D IC (Quadruple H-Bridge driver with internal fly-back diodes): https://www.ebay.ca/itm/311173671055
   * 16 pin DIP socket: https://www.ebay.ca/itm/311563518356
   * Arduino UNO: https://www.ebay.ca/itm/263452480977
