@@ -12,7 +12,7 @@ After installing the app and confirming that your BlueTooth is turned on:
 5. The app will ask which mode to select. Choose 'Controller mode' from top of the list.
 6. Confirm solid light on the HC06 module indicating pairing was successful
 7. Choose gear/settings icon from top right corner.
-8. Configure the field for each icon using these strings. The icon shape is described in the [ ] braces. See attached jpg for visual guide.
+8. Configure the field for each icon using these strings. The icon shape is described in the [ ] braces. See [this image](https://github.com/lead-harmony-lab/Bluetooth-Sumobot/blob/master/Arduino%20bluetooth%20controller%20setup%20image.jpg) for a visual guide.
                 
                 [left arrow] left
                 [up arrow] forward
@@ -26,7 +26,7 @@ After installing the app and confirming that your BlueTooth is turned on:
                 [triangle] faster
                 [X] stop
                 [circle] slower
-REMEMBER: You must select done / checkmark on the keyboard to lock the changes into the app. Otherwise the app will continue to show 'not set' after you have entered in the appropriate text. See [this image](https://github.com/lead-harmony-lab/Bluetooth-Sumobot/blob/master/Arduino%20bluetooth%20controller%20setup%20image.jpg)
+REMEMBER: You must select done / checkmark on the keyboard to lock the changes into the app. Otherwise the app will continue to show 'not set' after you have entered in the appropriate text. 
 
 9. Return to the previous screen using the Android back button
 10. Control the sumobot by pressing on the control icons.
